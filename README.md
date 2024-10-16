@@ -18,27 +18,7 @@ Welcome to my GitHub! I'm a passionate Computer Science and Statistical Sciences
 ## 🛠️ Skills
 
 **Languages**: 
-- Java, Python, C/C++, SQL (Postgres), JavaScript, R, English, Russian, Kazakh, Italian (JK)
+- Java, Python, C/C++, SQL (Postgres), JavaScript, R (English, Russian, Kazakh, Italian)
 
-**Frameworks**: 
-- React, Flask, Django, FastAPI, JUnit, Spring Core, Apache
-
-**Developer Tools**: 
-- Git, Docker, Vim, Google Cloud Platform, PyCharm, IntelliJ
-
-**Libraries**: 
-- HuggingFace, pandas, NumPy, Matplotlib, TensorFlow, PyTorch
-
-**Technologies**: 
-- Linux, Windows, GitHub
-
-
-## 📫 Get In Touch
-
-- 📧 Email: [dauletimangaliyev@gmail.com](mailto:dauletimangaliyev@gmail.com)
-- 💼 LinkedIn: [Daulet Imangaliyev](https://www.linkedin.com/in/daulet-imangaliyev/)
-- 🐙 GitHub: [BeadsForPGs](https://github.com/BeadsForPGs)
-
----
 
 Feel free to explore my repositories, or reach out if you'd like to collaborate!
